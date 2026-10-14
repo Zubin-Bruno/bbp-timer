@@ -1,0 +1,3 @@
+pycaw
+comtypes
+pyinstaller
